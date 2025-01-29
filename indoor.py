@@ -18,4 +18,8 @@ print (output1)
 print (lowercase_output)
 
 
+#die Methode kann auch direkt an die Definition der Variable angehängt werden, ohne Komma dazwischen!
+output2 = input ('what do you want to say? 2') .lower ()
+
+print (output2)
 
